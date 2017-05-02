@@ -7,7 +7,7 @@ var links = [
     "https://www.instagram.com/eddthepug/",
     "https://www.instagram.com/pugs/",
     "https://www.instagram.com/elonmusk/"
-];
+           ];
  
 // Hyjme te faqja dhe logohemi
         driver.get("https://www.instagram.com");
